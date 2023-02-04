@@ -27,7 +27,7 @@ Sebuah perusahaan transportasi "Cardio Good Fitness" yang bergerak dalam bidang 
 
     - [Membuat Hubungan Antar Kolom Untuk Memudahkan Analisa](#url)
       
-     ![image](https://user-images.githubusercontent.com/124382956/216769763-74619a11-1d5c-483e-a8c3-a5e6e4a45f15.png)
+     ![image](https://user-images.githubusercontent.com/124382956/216771385-37693e05-721c-481b-9997-c141c12783ec.png)
 
     - [Membuat Button](#url)
 
@@ -35,7 +35,7 @@ Sebuah perusahaan transportasi "Cardio Good Fitness" yang bergerak dalam bidang 
       
     - [Membuat Layout Tabel](#url)
 
-      ![image](https://user-images.githubusercontent.com/124382956/216769791-797eb3b1-2c28-4e21-8c2b-2a5c6a02e6bc.png)
+      ![image](https://user-images.githubusercontent.com/124382956/216771398-9d6722a2-9c6f-4bf3-ba03-97e34705224c.png)
 
 # Analisa dan Hasil
 - [Hasil](#url)
