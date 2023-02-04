@@ -5,7 +5,7 @@ Tugas Kecerdasan Buatan
 
 # Studi Kasus Cardio Good Fitness Menggunakan Regresi Linear dan Analisa Deskriptif
 
-Sebuah perusahaan transportasi "Cardio Good Fitness" yang bergerak dalam bidang olahraga menjual produk treadmill kepada para konsumennya. Namun cardio good fitness ingin analisa lebih lanjut minat konsumen terhadap produknya. Untuk membantu analisanya Cardio Good Fitness menyewa tim yang ahli dalam research market. Cardio Good Fitness ingin tim tersebut menganalisa apakah ada keterkaitan antara umur dan jumlah penghasilan para pelanggannya terhadap produk treadmill yang dijual. Untuk itu dibutuhkan analisa deskriptif dan regresi linear untuk dapat menyelesaikan masalah berikut
+Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menjual produk treadmill kepada para konsumennya. Namun cardio good fitness ingin analisa lebih lanjut minat konsumen terhadap produknya. Untuk membantu analisanya Cardio Good Fitness menyewa tim yang ahli dalam research market. Cardio Good Fitness ingin tim tersebut menganalisa apakah ada keterkaitan antara umur dan jumlah penghasilan para pelanggannya terhadap produk treadmill yang dijual. Untuk itu dibutuhkan analisa deskriptif dan regresi linear untuk dapat menyelesaikan masalah berikut
 
 # Pembuatan Code Untuk Membantu Analisa
 - [Overview](#url)
