@@ -39,6 +39,7 @@ Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menj
 
 # Analisa dan Hasil
 - [Hasil](#url)
+
   Setelah menginput code pada python langkah selanjutnya adalah menjalankan code. Dibawah ini merupakan hasil output dari code yang digunakan dan cara pengoperasian tabel dengan memilih usia konsumen
   
     - [Output Tabel](#url)
@@ -67,19 +68,23 @@ Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menj
       ![image](https://user-images.githubusercontent.com/124382956/216770935-e353c60a-284a-439f-a82e-970ccd013f09.png)
       
 - [Analisa](#url)
+
   Dari hasil yang didapatkan dapat dianalisa bahwa keterkaitan antara umur dan jumlah penghasilan para pelanggannya terhadap produk treadmill yang dijual oleh Cardio Good Fitness adalah benar adanya. 
   
   Seperti pada contoh diatas untuk usia 25 tahun dengan income yang besar lebih memilih produk treadmill yang memiliki kualitas High-End, sedangkan untuk yang incomenya kecil lebih memilih produk treadmill low-end
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # The brand and project history
+
 Program ini kami buat untuk menyelesaikan studi kasus perusahaan Cardio Good Fitness, kami mendapatkan inspirasi dari situs kaggle https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness?datasetId=375151&sortBy=voteCount
 
 # Contact Details
+
 - Nadhif Raditya Saputro
 - Riris Simbolon
 - Sonia Sitinjak
 
 # Built-With
+
 - Plotly
 - Python
 - Visual Studio Code
