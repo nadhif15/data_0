@@ -19,19 +19,19 @@ Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menj
 
     - [Mengimport File CSV](#url)
       
-      ![image](https://user-images.githubusercontent.com/124382956/216769126-bad11bef-7a6f-4f7e-8e49-c28c63a672dd.png)
+       ![image](https://user-images.githubusercontent.com/124382956/216769126-bad11bef-7a6f-4f7e-8e49-c28c63a672dd.png)
 
     - [Mengganti Nama Setiap Kolom Untuk Memmudahkan Penggunaan](#url)
 
-      ![image](https://user-images.githubusercontent.com/124382956/216769156-a98cac61-c9ec-4c34-ad75-bfde9ecb0090.png)
+       ![image](https://user-images.githubusercontent.com/124382956/216769156-a98cac61-c9ec-4c34-ad75-bfde9ecb0090.png)
 
     - [Membuat Hubungan Antar Kolom Untuk Memudahkan Analisa](#url)
       
-     ![image](https://user-images.githubusercontent.com/124382956/216771385-37693e05-721c-481b-9997-c141c12783ec.png)
+        ![image](https://user-images.githubusercontent.com/124382956/216771385-37693e05-721c-481b-9997-c141c12783ec.png)
 
     - [Membuat Button](#url)
 
-      ![image](https://user-images.githubusercontent.com/124382956/216769296-a11bd7e4-dfce-406e-8b9f-9b3e0318d710.png)
+        ![image](https://user-images.githubusercontent.com/124382956/216769296-a11bd7e4-dfce-406e-8b9f-9b3e0318d710.png)
       
     - [Membuat Layout Tabel](#url)
 
@@ -51,21 +51,12 @@ Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menj
       ![image](https://user-images.githubusercontent.com/124382956/216770835-8d805f84-6fd0-4aef-8b5f-d9c06f4dc1b9.png)
 
     - [Contoh Jika Sudah Memilih Usia](#url)
-
-
-
-
     
-      ![Memilih Usia](https://user-images.githubusercontent.com/124382956/217151730-75858e3f-b1a1-45d5-9009-55ff76afaa3e.gif)
-      
-      
-      
-      
-      
-      
-      
+      ![Memilih Usia(1)](https://user-images.githubusercontent.com/124382956/217153997-7058a24c-03af-42ea-901f-eda5facc0507.gif)
 
-      ![image](https://user-images.githubusercontent.com/124382956/216770935-e353c60a-284a-439f-a82e-970ccd013f09.png)
+     
+
+  
       
 - [Analisa](#url)
 
