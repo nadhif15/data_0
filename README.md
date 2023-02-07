@@ -50,12 +50,19 @@ Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menj
       ![image](https://user-images.githubusercontent.com/124382956/216770835-8d805f84-6fd0-4aef-8b5f-d9c06f4dc1b9.png)
 
     - [Contoh Jika Sudah Memilih Usia](#url)
+
+
+
+
     
-        
-
-      https://user-images.githubusercontent.com/124382956/217151437-7ee9aeb8-c99d-443a-937f-dd533be2f54b.mp4
-
-  
+      ![Memilih Usia](https://user-images.githubusercontent.com/124382956/217151730-75858e3f-b1a1-45d5-9009-55ff76afaa3e.gif)
+      
+      
+      
+      
+      
+      
+      
 
       ![image](https://user-images.githubusercontent.com/124382956/216770935-e353c60a-284a-439f-a82e-970ccd013f09.png)
       
