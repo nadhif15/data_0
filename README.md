@@ -21,7 +21,7 @@ Sebuah perusahaan "Cardio Good Fitness" yang bergerak dalam bidang olahraga menj
       
        ![image](https://user-images.githubusercontent.com/124382956/216769126-bad11bef-7a6f-4f7e-8e49-c28c63a672dd.png)
 
-    - [Mengganti Nama Setiap Kolom Untuk Memmudahkan Penggunaan](#url)
+    - [Mengganti Nama Setiap Kolom Untuk Memmudahkan Penggunaan Code](#url)
 
        ![image](https://user-images.githubusercontent.com/124382956/216769156-a98cac61-c9ec-4c34-ad75-bfde9ecb0090.png)
 
